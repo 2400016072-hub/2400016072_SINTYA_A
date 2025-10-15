@@ -1,0 +1,22 @@
+p {
+    color:darkred;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 500px;
+    border: 2px solid darkred;
+}
+body {
+    background-color:ivory;
+}
+
+h1 {
+    background-color:lightcoral;
+    width: 500px;
+    color: black;
+}
+
+h2 {
+    background-color: burlywood;
+    width: 500px;
+    color:darkred;
+}
+
